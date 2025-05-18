@@ -119,5 +119,4 @@ CREATE TABLE bank (
 
 ---
 
-**Made with using Java and MySQL**
-** to add jar files in project structure libraries**
+**Made with using Java and MySQL to add jar files in project structure libraries**
