@@ -120,4 +120,4 @@ CREATE TABLE bank (
 ---
 
 **Made with using Java and MySQL**
-**Make sure to add jar files in project structure libraries**
+** to add jar files in project structure libraries**
